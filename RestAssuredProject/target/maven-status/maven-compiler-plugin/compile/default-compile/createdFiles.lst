@@ -1,0 +1,7 @@
+Examples\Authentications.class
+Examples\DiffCreateBody.class
+Examples\PathAndQueryParam.class
+Examples\UserPOJO.class
+Examples\GetName.class
+Examples\HTTPReqs.class
+Examples\ConditionalJsonParse.class
